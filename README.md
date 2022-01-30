@@ -10,9 +10,10 @@
 > Have a hands-on approach on how we can develop a working model for a small unbalanced dataset of images. 
 
 ### Development methodology:
-> Tensorflow was the adoptedframework for this development. 
+> Tensorflow was the adopted framework for this development. 
 
-> Usage of transfer learning weights from the IMAGENET dataset with the VGG16 to use the feature classification already determined. 
+> Usage of transfer learning weights from the IMAGENET dataset with the VGG16 to use the feature classification already determined.
+ 
 > Due the small amount of data to train the model, the ImageDataGenerator of Keras is being used to produce data augmentation and allow a better fit and avoid overfitting issues.
 
 > Dropout layers were also added to avoid overfitting. 
@@ -38,15 +39,15 @@
    F1 score   |    0.333333
 
 ### Future developments
-> Use a differnet and large database related to skin issues to create a base model and than recerate model with same dataset to check if feature selection can be improved.
+> Use a different and large database related to skin issues to create a base model and than recreate this model with same dataset to check if feature selection can be improved.
 
 > Better select areas of interest (filter and mask creations) of the training data, avoiding the need of greated amount of data to define them.
 
-> Create a web aplication to allow usage of teh model.
+> Create a web application to allow usage of the model.
 
-> Develop a smaller model that can be used in mobile devices
+> Develop a smaller model that can be used in mobile devices.
 
 ### Contacts:  
-> Unfortunatelly github is not allowing the file to be made available due it size, therefore in case you wish to test in in you data feel free to contact the developer by email to request the .h5 file.
+> Unfortunatelly github is not allowing the model file to be made available due it size, therefore in case you wish to test in in you data feel free to contact the developer by email to request the .h5 file.
 
 > validation sha256: fe84cbff9a20f25cb10acd1f39c55f3268aa99b5e0031c5b976fe8fb540636ab
