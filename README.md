@@ -48,3 +48,5 @@
 
 ### Contacts:  
 > Unfortunatelly github is not allowing the file to be made available due it size, therefore in case you wish to test in in you data feel free to contact the developer by email to request the .h5 file.
+
+> validation sha256: fe84cbff9a20f25cb10acd1f39c55f3268aa99b5e0031c5b976fe8fb540636ab
