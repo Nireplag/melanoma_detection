@@ -19,6 +19,8 @@
 ### Results
 > The model created exceded the developer expectations considering the amount of available data (45 negatives and 23 positives) and the usage of a base model that was not trained over skin related images. 
 > The final metrics observed were: 
+
+
   Metrics     |    values
 ------------- | -------------
    Accuracy   |    0.714286
