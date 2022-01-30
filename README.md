@@ -19,10 +19,10 @@
 ### Results
 > The model created exceded the developer expectations considering the amount of available data (45 negatives and 23 positives) and the usage of a base model that was not trained over skin related images. 
 > The final metrics observed were: 
-Metric          Value
------------  --------
-Accuracy     0.714286
-Precision    1
-Recall       0.2
-Specificity  1
-F1 score     0.333333
+  Metrics     |    values
+------------- | -------------
+   Accuracy   |    0.714286
+   Precision  |    1
+   Recall     |    0.2
+ Specificity  |    1
+   F1 score   |    0.333333
